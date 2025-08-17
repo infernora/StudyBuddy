@@ -4,6 +4,7 @@ This is a console-based Java application that allows users to create study quest
 
 ---
 ## Motivation
+
 The goal was to build a project using my knowledge from MOOC's "Programming in Java-I" course
 ---
 
@@ -47,4 +48,16 @@ The goal was to build a project using my knowledge from MOOC's "Programming in J
 2. Ensure the folder structure is intact.  
 3. Download **OpenPDF jar** and add it to your project classpath.  
 4. Open in **VS Code** or any Java IDE.
+
+## What I Learned
+
+- **Java OOP:** Classes, objects, constructors, encapsulation, and modular design.  
+- **Collections & Data Handling:** Lists, filtering, shuffling, and subsetting.  
+- **File I/O:** Reading/writing text files for questions and results.  
+- **User Interaction:** Console menus, input validation, and interactive quizzes.  
+- **External Libraries:** Generating formatted PDFs with OpenPDF.  
+- **Problem-Solving:** Limiting quiz questions, scoring logic, and immediate feedback.  
+- **Project Structure:** Separating concerns into `model`, `service`, and `util` for maintainability.  
+- **Debugging & Testing:** Fixing logical and runtime errors.  
+
 
