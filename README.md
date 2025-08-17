@@ -10,14 +10,14 @@ The goal was to build a project using my knowledge from MOOC's "Programming in J
 ---
 ## Idea
 
-**Study Quiz Manager** enables users to:
+StudyBuddy enables users to:
 
 1. Add questions with options (multiple choice) or open-ended answers.  
-2. Take quizzes filtered by **level** (Easy, Medium, Hard) and **category** (Math, Science, Geography, etc.).  
+2. Take quizzes filtered by level (Easy, Medium, Hard) and category (Math, Science, Geography, etc.).  
 3. See correct answers immediately after answering each question.  
-4. Limit quizzes to **5 questions per round**.  
+4. Limit quizzes to 5 questions per round.  
 5. Track past results with scores and metadata.  
-6. Export selected questions to a **PDF** file.
+6. Export selected questions to a PDF file.
 
 ---
 ## Features
@@ -42,7 +42,6 @@ The goal was to build a project using my knowledge from MOOC's "Programming in J
 ## Setup and Running
 
 1. Clone the repository or download the project.  
-2. Ensure the folder structure is intact.  
 3. Download **OpenPDF jar** and add it to your project classpath.  
 4. Open in **VS Code** or any Java IDE.
 
