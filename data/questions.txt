@@ -1,0 +1,101 @@
+What is the capital of France?|Paris,London,Berlin|Paris|Easy|Geography
+2 + 2 = ?|3,4,5|4|Easy|Math
+What is H2O commonly known as?|Water,Hydrogen,Oxygen|Water|Easy|Science
+Who wrote 'Romeo and Juliet'?|Shakespeare,Dickens,Hemingway|Shakespeare|Easy|English
+Which planet is known as the Red Planet?|Mars,Earth,Jupiter|Mars|Easy|Science
+5 * 6 = ?|30,35,25|30|Easy|Math
+What is the largest ocean on Earth?|Pacific,Atlantic,Indian|Pacific|Easy|Geography
+What is the chemical symbol for gold?|Au,Ag,Fe|Au|Medium|Science
+Who discovered gravity?|Newton,Einstein,Galileo|Newton|Medium|Science
+Which country has the Great Wall?|China,Japan,India|China|Medium|History
+12 / 3 = ?|3,4,5|4|Easy|Math
+What is the capital of Japan?|Tokyo,Kyoto,Osaka|Tokyo|Easy|Geography
+Who painted the Mona Lisa?|Da Vinci,Van Gogh,Picasso|Da Vinci|Medium|Art
+What is the boiling point of water in Celsius?|100,90,120|100|Medium|Science
+Which element has atomic number 1?|Hydrogen,Helium,Lithium|Hydrogen|Medium|Science
+Who was the first president of the USA?|Washington,Lincoln,Jefferson|Washington|Easy|History
+Which language is used for Android development?|Java,Python,Swift|Java|Medium|Programming
+What does HTML stand for?|HyperText Markup Language,HighText Machine Language,Hyperloop Machine Language|HyperText Markup Language|Easy|Programming
+Which gas do plants absorb for photosynthesis?|Carbon Dioxide,Oxygen,Nitrogen|Carbon Dioxide|Easy|Science
+What is 15 % of 200?|30,25,35|30|Medium|Math
+Who is known as the father of computers?|Charles Babbage,Alan Turing,Steve Jobs|Charles Babbage|Hard|Programming
+Which organ pumps blood in humans?|Heart,Lungs,Kidney|Heart|Easy|Science
+Solve for x: 2x + 3 = 11||4|Medium|Math
+What is the capital of Australia?|Canberra,Sydney,Melbourne|Canberra|Medium|Geography
+Who wrote '1984'?|Orwell,Huxley,Bradbury|Orwell|Medium|English
+Which planet has rings?|Saturn,Mars,Jupiter|Saturn|Medium|Science
+What is the square root of 144||12|Easy|Math
+Which ocean is the smallest?|Arctic,Pacific,Indian|Arctic|Medium|Geography
+What is the largest planet in our solar system?|Jupiter,Earth,Mars|Jupiter|Easy|Science
+Who invented the telephone?|Bell,Watson,Edison|Bell|Medium|History
+What is 7 * 8||56|Easy|Math
+Which country is known as the Land of the Rising Sun?|Japan,China,Korea|Japan|Easy|Geography
+What is the chemical symbol for Sodium?|Na,S,N|Na|Medium|Science
+Who painted 'Starry Night'?|Van Gogh,Da Vinci,Picasso|Van Gogh|Medium|Art
+Which is the smallest prime number||2|Easy|Math
+What does CPU stand for?|Central Processing Unit,Computer Personal Unit,Central Power Unit|Central Processing Unit|Medium|Programming
+Who wrote 'The Odyssey'?|Homer,Sophocles,Virgil|Homer|Medium|English
+What is the formula for water?|H2O,CO2,O2|H2O|Easy|Science
+What is 100 / 25||4|Easy|Math
+Which is the longest river in the world?|Nile,Amazon,Yangtze|Nile|Medium|Geography
+Who developed the theory of relativity?|Einstein,Newton,Galileo|Einstein|Medium|Science
+Which language is primarily used for iOS development?|Swift,Java,Python|Swift|Medium|Programming
+Solve: 5x - 10 = 0||2|Medium|Math
+What is the freezing point of water in Celsius||0|Easy|Science
+Who wrote 'Hamlet'?|Shakespeare,Dickens,Hemingway|Shakespeare|Easy|English
+Which gas is essential for human respiration?|Oxygen,Carbon Dioxide,Nitrogen|Oxygen|Easy|Science
+What is 9 + 10||19|Easy|Math
+Which continent is Egypt in?|Africa,Asia,Europe|Africa|Easy|Geography
+Who is considered the founder of Microsoft?|Bill Gates,Steve Jobs,Mark Zuckerberg|Bill Gates|Medium|Programming
+Solve for x: 3x - 7 = 11||6|Medium|Math
+Which gas is most abundant in Earth's atmosphere?|Oxygen,Nitrogen,Carbon Dioxide|Nitrogen|Medium|Science
+What is the derivative of x^2||2x|Medium|Math
+Who was the first person to circumnavigate the globe?|Magellan,Columbus,Vespucci|Magellan|Medium|History
+What is the capital of Iceland?|Reykjavik,Oslo,Helsinki|Reykjavik|Medium|Geography
+Which programming language introduced the concept of object-oriented programming?|Smalltalk,C,Fortran|Smalltalk|Hard|Programming
+Who wrote 'Pride and Prejudice'?|Austen,Shakespeare,Dickens|Austen|Medium|English
+What is the chemical formula for table salt||NaCl|Medium|Science
+Solve: 7x + 2 = 23||3|Medium|Math
+Which element has the highest atomic number naturally occurring?|Uranium,Plutonium,Gold|Uranium|Hard|Science
+Which city hosted the 2008 Summer Olympics?|Beijing,London,Athens|Beijing|Medium|History
+Which planet has the shortest day?|Jupiter,Mercury,Venus|Jupiter|Hard|Science
+What is the integral of 2x||x^2|Medium|Math
+Who invented the World Wide Web?|Tim Berners-Lee,Bill Gates,Steve Jobs|Tim Berners-Lee|Medium|Programming
+Which is the largest desert in the world?|Sahara,Gobi,Antarctic|Antarctic|Hard|Geography
+What is the atomic number of carbon||6|Medium|Science
+Which war ended with the Treaty of Versailles?|World War I,World War II,Cold War|World War I|Medium|History
+Which programming language is primarily used for data analysis and machine learning?|Python,Java,C++|Python|Medium|Programming
+What is the capital of Mongolia?|Ulaanbaatar,Astana,Bishkek|Ulaanbaatar|Medium|Geography
+Solve for y: 2y + 5 = 17||6|Medium|Math
+Which planet is closest to the Sun?|Mercury,Venus,Mars|Mercury|Medium|Science
+Who developed the laws of motion?|Newton,Einstein,Galileo|Newton|Medium|Science
+Which HTML tag is used to create a hyperlink?|<a>,<link>,<href>|<a>|Medium|Programming
+What is the square root of 625||25|Medium|Math
+Which country has the most time zones?|France,Russia,USA|France|Hard|Geography
+Who is the author of 'The Divine Comedy'?|Dante,Milton,Homer|Dante|Hard|English
+What is 15 squared||225|Medium|Math
+Which organelle is known as the powerhouse of the cell?|Mitochondria,Nucleus,Ribosome|Mitochondria|Medium|Science
+Who painted 'The Last Supper'?|Da Vinci,Michelangelo,Rembrandt|Da Vinci|Medium|Art
+Which programming paradigm emphasizes immutability and functions?|Functional,Procedural,Object-Oriented|Functional|Hard|Programming
+What is 2^8||256|Medium|Math
+Which river flows through Baghdad?|Tigris,Euphrates,Nile|Tigris|Medium|Geography
+Which country invented paper?|China,India,Egypt|China|Medium|History
+Who formulated the periodic table?|Mendeleev,Dalton,Lavoisier|Mendeleev|Hard|Science
+What is the integral of 1/x||ln|Medium|Math
+Which programming language runs on the JVM?|Java,Kotlin,Python|Java|Medium|Programming
+Which battle ended Napoleon's rule?|Waterloo,Stalingrad,Hastings|Waterloo|Medium|History
+Solve for z: 5z - 20 = 0||4|Medium|Math
+Which city is known as the City of Canals?|Venice,Amsterdam,Bruges|Venice|Medium|Geography
+Which chemical element has the symbol 'Pb'?|Lead,Potassium,Phosphorus|Lead|Medium|Science
+Who wrote 'Macbeth'?|Shakespeare,Milton,Hemingway|Shakespeare|Medium|English
+Which programming concept allows objects to take many forms?|Polymorphism,Encapsulation,Abstraction|Polymorphism|Hard|Programming
+What is the factorial of 5||120|Medium|Math
+Which ocean borders the east coast of the USA?|Atlantic,Pacific,Indian|Atlantic|Medium|Geography
+What is the pH of pure water||7|Medium|Science
+Who is known as the father of modern physics?|Einstein,Newton,Galileo|Einstein|Hard|Science
+Which country is landlocked?|Nepal,Spain,Egypt|Nepal|Medium|Geography
+Solve for x: x^2 - 16 = 0||4|-4|Medium|Math
+Which HTML element is used to create a table?|<table>,<tr>,<td>|<table>|Medium|Programming
+Which chemical element has atomic number 79||Gold|Hard|Science
+Who wrote 'Frankenstein'?|Shelley,Stoker,Verne|Shelley|Medium|English
+What is the temperature of absolute zero in C?|-470,-273,0,-100|-273|Medium|Science
