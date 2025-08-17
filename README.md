@@ -6,8 +6,8 @@ This is a console-based Java application that allows users to create study quest
 ## Motivation
 
 The goal was to build a project using my knowledge from MOOC's "Programming in Java-I" course
----
 
+---
 ## Idea
 
 **Study Quiz Manager** enables users to:
@@ -30,8 +30,6 @@ The goal was to build a project using my knowledge from MOOC's "Programming in J
 - **Persistence**: Questions and results are stored in text files (`questions.txt` and `results.txt`).  
 
 ---
-
-
 ## Technologies
 
 - **Java** – Core language  
@@ -41,7 +39,6 @@ The goal was to build a project using my knowledge from MOOC's "Programming in J
 - **Scanner** – Console input  
 
 ---
-
 ## Setup and Running
 
 1. Clone the repository or download the project.  
@@ -49,6 +46,7 @@ The goal was to build a project using my knowledge from MOOC's "Programming in J
 3. Download **OpenPDF jar** and add it to your project classpath.  
 4. Open in **VS Code** or any Java IDE.
 
+---
 ## What I Learned
 
 - **Java OOP:** Classes, objects, constructors, encapsulation, and modular design.  
