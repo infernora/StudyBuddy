@@ -1,18 +1,18 @@
 # Study Quiz Manager - StudyBuddy
 
-This is a console-based Java application that allows users to create study questions, take quizzes, track scores, and export questions to PDF. I demonstrated Java fundamentals including OOP, file handling, collections, streams, and external library integration (OpenPDF).
+StudyBuddy is a console-based Java application that allows users to create study questions, take quizzes, track scores, and export questions as PDF. I demonstrated Java fundamentals including OOP, file handling, collections, streams, and external library integration (OpenPDF).
 
 ---
 ## Motivation
 
-The goal was to build a project using my knowledge from MOOC's "Programming in Java-I" course
+The goal was to build a project using my knowledge from MOOC's "Java-Programming-I" ( https://java-programming.mooc.fi/ ) course.
 
 ---
 ## Idea
 
 StudyBuddy enables users to:
 
-1. Add questions with options (multiple choice) or open-ended answers.  
+1. Add questions with options (multiple choice) or specific answers.  
 2. Take quizzes filtered by level (Easy, Medium, Hard) and category (Math, Science, Geography, etc.).  
 3. See correct answers immediately after answering each question.  
 4. Limit quizzes to 5 questions per round.  
@@ -22,12 +22,11 @@ StudyBuddy enables users to:
 ---
 ## Features
 
-- **Add Questions**: Multiple-choice or open-ended.  
-- **Take Quiz**: Randomized questions with max 5 per round.  
-- **Immediate Feedback**: Shows if the answer is correct and the correct answer.  
-- **Score Tracking**: Stores results for review.  
-- **Export to PDF**: Export questions by category or level.  
-- **Persistence**: Questions and results are stored in text files (`questions.txt` and `results.txt`).  
+- Add Questions: Multiple-choice or open-ended.  
+- Take Quiz: Randomized questions with max 5 per round.  
+- Immediate Feedback: Shows if the answer is correct and the correct answer.  
+- Score Tracking: Stores results for review.  
+- Export to PDF: Export questions by category or level.  
 
 ---
 ## Technologies
